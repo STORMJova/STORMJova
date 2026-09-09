@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about software development, from bu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=STORMJova&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=STORMJova&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STORMJova&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STORMJova&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400&v=1" alt="Top Languages" />
 </div>
