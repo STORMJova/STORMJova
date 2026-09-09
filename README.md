@@ -1,6 +1,6 @@
 # Hi there, I'm Andrea! 👋
 
-**Computer Science & Information Systems Management Student @ Università degli Studi di Perugia**
+**Computer Science & Information Systems Management Student**
 
 Welcome to my GitHub profile! I'm passionate about software development, from building full-stack web applications to experimenting with IoT and containerization. 
 
