@@ -5,7 +5,9 @@
 Welcome to my GitHub profile! I'm passionate about software development, from building full-stack web applications to experimenting with IoT and containerization. 
 
 🔭 **Currently working on:** University projects and expanding my portfolio.
+
 🌱 **Currently learning:** Deepening my knowledge in Full-Stack architectures, Machine Learning integration, and Cloud tools.
+
 💼 **Looking for:** Internship opportunities to apply my programming skills in a real-world environment.
 
 ---
