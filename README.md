@@ -38,8 +38,9 @@ Welcome to my GitHub profile! I'm passionate about software development, from bu
 
 ## 🚀 Highlighted Projects
 
-*   **MuseumArtScan (M.A.S.):** A full-stack application integrating Machine Learning for artwork recognition, built with C#, Blazor, React, and MySQL.
-*   **MediaVault / Recipe App:** Dynamic web application featuring user authentication and database management using Node.js and MySQL.
+*   **MuseumArtScan (M.A.S.):** A full-stack application integrating Machine Learning for artwork recognition.
+*   **MediaVault:** A personal media library app developed in .NET Blazor, integrating TMDB and Google Books APIs for content discovery.
+*   **Ricettario Online:** A full-stack web platform for sharing and managing culinary recipes. Developed with a Node.js/Express backend, MySQL database, and a custom responsive frontend.
 *   **Micro:bit IoT Monitor:** Environmental monitoring dashboard built with MicroPython and a Flask backend.
 *   **Chamilo LMS Dockerization:** Custom Docker image and Compose environment published on Docker Hub.
 
